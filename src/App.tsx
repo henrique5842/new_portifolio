@@ -19,7 +19,6 @@ import Infinity from "./assets/Infinity.png";
 
 import Linkedin from "./assets/linkedin.png";
 import GithubIcons from "./assets/Githubicons.png";
-import Instagram from "./assets/Instagram.png";
 import Email from "./assets/Email.png";
 import { Contatos } from "./components/contatos";
 
