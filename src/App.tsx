@@ -15,7 +15,7 @@ import CaretDoubleDown from "./assets/CaretDoubleDown.png";
 
 import Computador from "./assets/Computador.png";
 import HardDrives from "./assets/HardDrives.png";
-import Infinity from "./assets/Infinity.png";
+import Infinity from "./assets/infinity.png";
 
 import Linkedin from "./assets/linkedin.png";
 import GithubIcons from "./assets/Githubicons.png";
