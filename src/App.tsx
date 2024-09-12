@@ -94,7 +94,7 @@ export function App() {
                     <img
                       src={project.imageSrc}
                       alt=""
-                      className="flex  w-[306px] h-[156px]"
+                      className="flex  w-[306px] h-[156px] rounded-lg"
                     />
                     <h1 className="font-asap font-bold text-white text-base mt-3">
                       {project.name}
