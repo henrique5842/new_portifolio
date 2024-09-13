@@ -1,5 +1,3 @@
-import nlwexpert from '../assets/image.png'
-import chatia from "../assets/image.png"
 import portifolio from "../assets/Portifolio.png"
 import CoShell from '../assets/CoShell.png'
 import NlwExpert from '../assets/nlw_expert.png'
